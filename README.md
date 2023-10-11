@@ -1,2 +1,1 @@
-# Dice-Roller
-Codelab 4 môn Android
+Dice Roller witten in Kotlin
